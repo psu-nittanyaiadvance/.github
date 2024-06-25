@@ -1,0 +1,38 @@
+name: 🚀 Tasking
+description: Create a task!
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please write the proper information for the task. 
+        Please review the informaiton submitted, and if you deem this is a large task, break into more subsequent tasks and convert this into a feature label.
+
+  - type: textarea
+    id: issue-description
+    attributes:
+      label: "Description of the Task:"
+      description: Provide a brief description of the task. Write enough detail so another person could pick up the task if needed
+      placeholder: |
+        ex) Create CRUDD operations for the database table. these should be accessable to the frontend (requires X perms) and be fast.
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: "Acceptance Criteria:"
+      description: Describe the criteria that will be used to determine if the task is completed. These must be actionable and completeable
+      placeholder: |
+        ex) All CRUD operations are accessible to the frontend. Response times are under 10ms.
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: "Additional Information:"
+      description: |
+        Provide any additional information deemed necessary
+      placeholder: |
+        ex) This is a high priority task. This is a critical path for the project.
+

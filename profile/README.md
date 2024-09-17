@@ -1,12 +1,20 @@
-## Hi there 👋
+# Nittany AI Advance
 
-<!--
+Welcome to the Nittany AI Advance! This organization is dedicated to advancing AI technology for social good through collaboration, education, and innovative projects. Our mission is to empower teams at Penn State and beyond to harness the power of AI for impactful solutions.
 
-**Here are some ideas to get you started:**
+## Overview
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The Nittany AI  Advance serves as a hub for interdisciplinary projects that utilize artificial intelligence to address real-world challenges. We focus on building educational pathways, providing mentorship, and supporting project teams in leveraging AI technologies effectively.
+
+## Objectives
+
+- **Education**: Develop and deliver technology onboarding programs for project teams, ensuring a strong understanding of AI infrastructure and best practices.
+- **Collaboration**: Facilitate partnerships with academic, industry, and community stakeholders to drive innovative projects.
+- **Mentorship**: Provide guidance and support to technical leaders and team members, fostering a culture of learning and growth.
+
+## Key Areas of Focus
+
+- AI for Good initiatives
+- Project technology design and delivery
+- Community engagement and outreach
+- Continuous improvement of AI educational programming

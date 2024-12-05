@@ -12,9 +12,6 @@ Please include a summary of the changes and the related issue(s). List any depen
 
 Please describe/provide images of the tests that you ran to verify your changes. Provide instructions so we can reproduce.
 
-- [ ] Test A
-- [ ] Test B
-
 ## Possible bugs or issues:
  - List complications or potential future work
 

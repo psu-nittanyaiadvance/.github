@@ -1,4 +1,4 @@
-# Nittany AI Advance
+# Nittany Ai Advance
 
 Welcome to the Nittany AI Advance! This organization is dedicated to advancing AI technology for social good through collaboration, education, and innovative projects. Our mission is to empower teams at Penn State and beyond to harness the power of AI for impactful solutions.
 

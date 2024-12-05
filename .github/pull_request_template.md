@@ -1,11 +1,8 @@
 # These changes relate to issue:
- - #{issue_num}
+ - This PR is for task #{insert issue number here}
 
 # These changes do the following:
  - List changelog items here
-
-## These changes relate to issue:
- - This PR is for task #{insert issue number here}
 
 ## Description
 
@@ -29,5 +26,4 @@ Please describe/provide images of the tests that you ran to verify your changes.
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
 - [ ] Any dependent changes have been merged and published in downstream modules
-- [ ] I have checked my code and corrected any misspellings
 
